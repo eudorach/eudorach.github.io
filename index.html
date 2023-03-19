@@ -9,11 +9,15 @@
 
     <body>
         <!--NAV BAR-->
+        <script>
+            document.body.classList.add('fade-out');
+        </script>
         <div class="navbar">
             <a class="" href="#home">Home</a>
+            <a href="#Slideshow">Slideshow</a>
             <a class="" href="#about">About</a>
             <a class="" href="#github">GitHub</a>
-            <a class="" href="#contact">Contact</a>
+            <a onclick="openForm()" ondblclick="closeForm()" class="contact">Contact</a>
         </div>
 
         <!--BACKGROUND VIDEO-->
@@ -33,6 +37,52 @@
                    <br> Thank you for stopping by and enjoy!
                 </p>
             </strong>
+        </div>
+        <!-- Slideshow section added -->
+        <div id="Slideshow">
+            <div id="Slideshow_Background"> 
+                <div id="Slideshow_Container">
+                    <!-- Slide 1 of 6 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="./imgs/me.jpg" alt="Picture of yourself">
+                        <div class="text">I'm available to assist you on your project!</div>
+                    </div>
+                    
+                    <!-- Slide 2 of 5 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="./imgs/healthcare.jpeg" alt="healthcare">
+                        <div class="text">I am learning to work in data science with medical background</div>
+                    </div>
+                    <!-- Slide 3 of 5 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="./imgs/python.svg.png" alt="Python logo">
+                        <div class="text">I'm learning to be proficient at Python </div>
+                    </div>
+                    <!-- Slide 4 of 5 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="./imgs/sql.png" alt="SQL logo"> 
+                        <div class="text">databases and SQL.</div>
+                    </div>
+                    <!-- Slide 5 of 5 -->
+                    <div class="mySlides fade">
+                        <img class="Slideshow_Images" src="./imgs/common.jpeg" alt="Replace with a picture of your choosing"> 
+                        <div class="text"><a class="white-text contact" onclick="openForm()">Contact me now!</a></div> 
+                    </div>
+                    <!-- Previous and next buttons -->
+                    <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="Next" onclick="plusSlides(1)">&#10095;</a>
+                </div>
+                <br> <!-- Adds a space between the slideshow images and the dots -->
+
+                <!-- Slideshow dots (these are another way for users to navigate through the slideshow) -->
+                <div style="text-align: center">
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span> 
+                    <span class="dot" onclick="currentSlide(4)"></span> 
+                    <span class="dot" onclick="currentSlide(5)"></span> 
+                </div>
+            </div>
         </div>
 
         <!--ABOUT SECTION-->
@@ -57,42 +107,42 @@
                 <p>
                     Please see the profile for my coding projects on GitHub.
                     <br>
-                    <br><p class="center"><a href="https://github.com/eudorach/HTML-and-CSS-projects" target="blank">Rachel's GitHub</a></p>
+                    <br><p class="center"><a href="https://github.com/eudorach" target="blank">Rachel's GitHub</a></p>
                 </p>
             </div>
 
             <!--RIGHT COLUMN-->
             <div class="column_2">
-                <a href="" target="blank"><img src="./imgs/github.png" alt="GitHub Logo"></a>
+                <img src="./imgs/github.png" alt="GitHub Logo">
             </div>
         </div>
 
         <!--CONTACT-->
-        <div class="row" id="contact">
-            <!--CONTACT IMG LEFT COLUMN-->
-            <div class="column_2 column_tall">
-                <img src="./imgs/common.jpeg" alt="Mailbox">
+        <div id="Contact">
+            <button onclick="openForm()" class="Pop_Up_Button">CONTACT</button>
+            <div class="form-popup" id="myForm">
+                 <form action="https://formspree.io/info@learncodinganywhere.com" method="POST" class="form-container"> <!-- Here we are using a free online service from https://formspree.io/ to send our contact form to an email address of our choosing - note: it will not run unless live on the internet, you have to push it to your online website first -->
+                     <h1>Contact</h1>
+                     <label for="name"><b>Name</b></label>
+                       <input type="text" placeholder="Type your name here" name="name" required>
+                     <label for="phone"><b>Phone</b></label>
+                       <input type="text" placeholder="Type your phone number here" name="phone">
+                     <label for="email"><b>Email</b></label>		
+                       <input type="text" placeholder="Type your email address here" name="email" required>
+                     <label for="message"><b>Message</b></label>
+                       <input type="text" placeholder="Type your message here" name="message">
+          
+                     <button type="submit" class="btn">SUBMIT</button>
+                     <button type="button" class="btn cancel" onclick="closeForm()">CLOSE</button>
+                 </form>
             </div>
-            <!--CONTACT FORM, RIGHT COLUMN-->
-            <div class="column_1 column_tall">
-                <h1>Contact</h1>
-                <form action="" method="POST">
-                    <label>Name:</label>
-                        <input type="text" placeholder="Please enter your name here">
-                    <label>Email:</label>
-                        <input type="text" id="email" name="Email" placeholder="Please enter your email here">
-                    <label>Message:</label>
-                        <input type="text" id="message" name="Message" placeholder="Please write your message here">
-                        <input type="submit" value="SUBMIT">
-                </form>
-            </div>
-        </div>
-
+         </div>
         <!--FOOTER-->
         <footer>
             <p>
-                <p class="center">&copy;</p>
+                <p class="center">Rachel Chung's Portfolio Website</p>
             </p>
         </footer>
+        <script src="./js/portfolio.js"></script>
     </body>
 </html>
