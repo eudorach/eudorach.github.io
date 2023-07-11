@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Various Factors Affecting COVID-19 Cases
 
-[Project 1 Title](/sample_page)
+## COVID-19 pandemic spread quickly and so were the responses from various countries. Given the dataset from Tech Academy, various analyses were performed to see which factors were correlated to the increase in total cases. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
