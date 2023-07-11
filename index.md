@@ -4,8 +4,9 @@
 
 ### Various Factors Affecting COVID-19 Cases
 
-#### COVID-19 pandemic spread quickly and so were the responses from various countries. Given the dataset from Tech Academy, various analyses were performed to see which factors were correlated to the increase in total cases. 
+COVID-19 pandemic spread quickly and so were the responses from various countries. Given the dataset from Tech Academy, various analyses were performed to see which factors were correlated to the increase in total cases. 
 <img src="images/female smokers and total cases.png?raw=true"/>
+[See code](http://github.com/eudorach/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
