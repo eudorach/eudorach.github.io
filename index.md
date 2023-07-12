@@ -15,8 +15,4 @@ COVID-19 pandemic spread quickly and so were the responses from various countrie
 <img src="images/female smokers and total cases.png?raw=true"/>
 <br>
 [See code](https://github.com/eudorach/ds_codesummary/blob/main/COVID-19total_cases_correlation.md)
-
-### COVID-19 Then and Now
-From when COVID-19 first was identified till now, there has been quite a drastic change. How the world responded to the pandemic was analyzed from the year 2020 till 2021. 
-
 ---
