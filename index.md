@@ -17,4 +17,5 @@ COVID-19 pandemic spread quickly and so were the responses from various countrie
 <img src="images/female smokers and total cases.png?raw=true"/>
 <br>
 <a href="https://github.com/eudorach/ds_codesummary/blob/main/COVID-19total_cases_correlation.md" target="_blank">See Code</a>
+
 ---
