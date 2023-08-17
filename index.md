@@ -21,6 +21,10 @@ COVID-19 pandemic spread quickly and so were the responses from various countrie
 ---
 
 ### Google Playstore
+There are many applications in Google Play Store. An analysis was performed to see which type of application would be the most successful for creation.
+<img src="images/content_rating.png?raw=true"/>
+<br>
+<a href="https://github.com/eudorach/ds_codesummary/blob/main/GPS_installs.md" target="_blank">See Code</a>
 
 ---
 
