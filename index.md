@@ -20,7 +20,9 @@ COVID-19 pandemic spread quickly and so were the responses from various countrie
 
 ---
 
-### Google Playstore
+## Google Playstore
+
+### Analysis of Popular Genre and Category
 There are many applications in Google Play Store. An analysis was performed to see which type of application would be the most successful for creation.
 <img src="images/content_rating.png?raw=true"/>
 <br>
