@@ -42,7 +42,7 @@ Orthognathic surgery patients experience various discomforts and reduced quality
 ## Epworth Sleepiness Analysis on Orthognathic Surgical Patients
 Orthognathic surgery patients can experience reduced sleep quality due to difficulty breathing/snoring. The Epworth Sleepiness Scale scores did not have significant changes between preoperative and postoperative time points. It is difficult to assess the quality of breathing through quality of sleep.
 
-<img src="images/ohip_score_initial_pom6.png?raw=true"/>
+<img src="images/epworth_initial_pom6_pom12.png?raw=true"/>
 <br>
 <a href="https://github.com/eudorach/ds_codesummary/blob/main/epworth.md" target="_blank">See Code</a>
 
