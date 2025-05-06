@@ -8,6 +8,7 @@
 <base target = "_blank">
 
 COVID-19 pandemic's global effects were visualized. Based on the dataset given, South America was affected the most by the COVID-19 pandemic. 
+
 <img src="images/continents.png?raw=true"/>
 <br>
 <a href="https://github.com/eudorach/ds_codesummary/blob/main/COVID-19stats.md" target="_blank">See Code</a>
@@ -24,6 +25,7 @@ COVID-19 pandemic spread quickly and so were the responses from various countrie
 
 ### Analysis of Popular Genre and Category
 There are many applications in Google Play Store. An analysis was performed to see which type of application would be the most successful for creation. The conclusion was that the rating 'Everyone 10+' was the most utilized, thus is most likely to succeed.
+
 <img src="images/content_rating.png?raw=true"/>
 <br>
 <a href="https://github.com/eudorach/ds_codesummary/blob/main/GPS_installs.md" target="_blank">See Code</a>
