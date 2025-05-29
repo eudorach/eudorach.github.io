@@ -37,7 +37,7 @@ Orthognathic surgery patients experience various discomforts and reduced quality
 
 <img src="images/ohip_score_initial_pom6.png?raw=true"/>
 <br>
-<a href="https://github.com/eudorach/ds_codesummary/blob/main/ohip_analysis.md" target="_blank">See Code</a>
+<a href="https://github.com/eudorach/ds_codesummary/blob/main/OHIP%20Analysis.ipynb">See Code</a>
 
 ---
 
