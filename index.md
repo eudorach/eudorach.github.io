@@ -33,11 +33,11 @@ There are many applications in Google Play Store. An analysis was performed to s
 ---
 
 ## OHIP-14 Analysis on Orthognathic Surgical Patients
-Orthognathic surgery patients experience various discomforts and reduced quality of life due to multiple factors including function and self esteem. Oral Health Impact Profile 14 questionnaire evaluates the quality of life based on how their oral health and functions. The impact of orthognathic surgery on the patients with sever dentofacial deformity was evaluated and analysed based on their OHIP-14 questionnaire. It shows that the OHIP-14 scores improve from preoperative to post operative month 6 more than they do from post operative month 6 to post operative month 12. 
+Orthognathic surgery patients experience various discomforts and reduced quality of life due to multiple factors including function and self esteem. Oral Health Impact Profile 14 questionnaire is a validated method to evaluate the quality of life based on their oral health and functions. The impact of orthognathic surgery on the patients with severe dentofacial deformity was evaluated and analysed based on their OHIP-14 scores. 
 
 <img src="images/ohip_score_initial_pom6.png?raw=true"/>
 <br>
-<a href="https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/OHIP%20Analysis.ipynb">See Code</a>
+<a href="https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>
 
 ---
 
