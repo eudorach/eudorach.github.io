@@ -1,6 +1,14 @@
 ## Portfolio
 
 ---
+## OHIP-14 Analysis on Orthognathic Surgical Patients
+Orthognathic surgery patients experience various discomforts and reduced quality of life due to multiple factors including function and self esteem. Oral Health Impact Profile 14 questionnaire is a validated method to evaluate the quality of life based on their oral health and functions. The impact of orthognathic surgery on the patients with severe dentofacial deformity was evaluated and analysed based on their OHIP-14 scores. 
+
+<img src="images/ohip_score_initial_pom6.png?raw=true"/>
+<br>
+<a href="https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>
+
+---
 
 ## COVID-19
 
@@ -32,14 +40,6 @@ There are many applications in Google Play Store. An analysis was performed to s
 
 ---
 
-## OHIP-14 Analysis on Orthognathic Surgical Patients
-Orthognathic surgery patients experience various discomforts and reduced quality of life due to multiple factors including function and self esteem. Oral Health Impact Profile 14 questionnaire is a validated method to evaluate the quality of life based on their oral health and functions. The impact of orthognathic surgery on the patients with severe dentofacial deformity was evaluated and analysed based on their OHIP-14 scores. 
-
-<img src="images/ohip_score_initial_pom6.png?raw=true"/>
-<br>
-<a href="https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>
-
----
 
 ## Epworth Sleepiness Analysis on Orthognathic Surgical Patients
 Orthognathic surgery patients can experience reduced sleep quality due to difficulty breathing/snoring. The Epworth Sleepiness Scale scores did not have significant changes between preoperative and postoperative time points. It is difficult to assess the quality of breathing through quality of sleep.
