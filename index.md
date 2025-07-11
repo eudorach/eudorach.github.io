@@ -6,7 +6,7 @@ Orthognathic surgery patients experience various discomforts and reduced quality
 
 <img src="images/ohip_score_initial_pom6.png?raw=true"/>
 <br>
-<a href="[https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb](https://github.com/eudorach/ds_codesummary/blob/main/Longitudinal%20Analysis%20of%20OHIP.ipynb)">See Code</a>
+<a href="https://github.com/eudorach/Data-Science-Project/blob/main/OHIP%20Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>
 
 ---
 
