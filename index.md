@@ -10,7 +10,6 @@ This project aimed to:
 
 - Assess whether OHIP-14 total scores significantly improve from baseline (preoperative) to postoperative follow-ups
 - Compare OHIP-14 scores at 3, 6, and 12 months after surgery
-- Identify which OHIP domains contribute most to overall changes in quality of life
   
 
 The analysis showed a significant improvement in OHRQoL following surgery, with the most notable gains occurring by postoperative month 3. These findings can help set realistic recovery expectations for patients and inform research protocols by highlighting the value of data collection at both early and later postoperative time points (e.g., 3, 6, and 12 months).
