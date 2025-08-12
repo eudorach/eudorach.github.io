@@ -15,7 +15,7 @@ This project aimed to:
 
 The analysis showed a significant improvement in OHRQoL following surgery, with the most notable gains occurring by postoperative month 3. These findings can help set realistic recovery expectations for patients and inform research protocols by highlighting the value of data collection at both early and later postoperative time points (e.g., 3, 6, and 12 months).
 
-The details of the project, code, and the background information is included in the Jupyter Notebook (<a href="https://github.com/eudorach/ds_codesummary/blob/main/OHIP_Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>).
+The details of the project, code, and the background information is included in the Jupyter Notebook (<a href="https://github.com/eudorach/portfolio_ds_projects/blob/main/OHIP_Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>).
 
 ---
 
