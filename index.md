@@ -1,5 +1,14 @@
 # Portfolio
 ---
+## NHANES Obesity Predictor (in progress)
+
+Obesity has become an epidemic in the United States of America. Environmental factors contribute to the development of obesity but some people are more prone to it than others. The question was asked about whether there are physiological markers and labs that could be taken to potentially predict the development of obesity. 
+
+The project draws public data from NHANES Website and the data from the years 2017-2020 is used. The data was first extracted and cleaned. Relational database was created locally to host the dataset. The next step will be to find correlations and make a prediction model. 
+
+<a href="https://github.com/eudorach/portfolio_ds_projects/tree/main/NHANES_analysis"> See code </a>
+
+---
 
 ## COVID-19
 
@@ -30,12 +39,3 @@ There are many applications in Google Play Store. An analysis was performed to s
 <a href="https://github.com/eudorach/ds_codesummary/blob/main/GPS_installs.md" target="_blank">See Code</a>
 
 ---
-
-
-## Epworth Sleepiness Analysis on Orthognathic Surgical Patients
-Orthognathic surgery patients can experience reduced sleep quality due to difficulty breathing/snoring. The Epworth Sleepiness Scale scores did not have significant changes between preoperative and postoperative time points. It is difficult to assess the quality of breathing through quality of sleep.
-
-<img src="images/epworth_initial_pom6_pom12.png?raw=true"/>
-<br>
-<a href="https://github.com/eudorach/ds_codesummary/blob/main/epworth.md" target="_blank">See Code</a>
-
