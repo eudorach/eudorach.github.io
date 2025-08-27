@@ -1,21 +1,4 @@
 # Portfolio
-
----
-## OHIP-14 Analysis on Orthognathic Surgical Patients
-Orthognathic surgery is a corrective procedure used to address skeletal and dental deformities that affect jaw alignment, facial symmetry, and oral function. While the clinical benefits of surgery are well-documented, its impact on patients' oral health–related quality of life (OHRQoL) is equally important to understand.
-
-To evaluate this, I analyzed patient responses to the Oral Health Impact Profile (OHIP-14), a validated, patient-reported outcome measure that captures the social and psychological effects of oral health conditions across seven domains—including functional limitation, physical pain, and social disability.
-
-This project aimed to:
-
-- Assess whether OHIP-14 total scores significantly improve from baseline (preoperative) to postoperative follow-ups
-- Compare OHIP-14 scores at 3, 6, and 12 months after surgery
-  
-
-The analysis showed a significant improvement in OHRQoL following surgery, with the most notable gains occurring by postoperative month 3. These findings can help set realistic recovery expectations for patients and inform research protocols by highlighting the value of data collection at both early and later postoperative time points (e.g., 3, 6, and 12 months).
-
-The details of the project, code, and the background information is included in the Jupyter Notebook (<a href="https://github.com/eudorach/portfolio_ds_projects/blob/main/OHIP_Analysis/Longitudinal%20Analysis%20of%20OHIP.ipynb">See Code</a>).
-
 ---
 
 ## COVID-19
