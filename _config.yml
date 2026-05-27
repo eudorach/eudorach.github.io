@@ -1,12 +1,21 @@
 title: R.C. # your name (or website title) here
 logo:  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I’m a Surgical PA with 4+ years of experience in the OR and inpatient settings, along with nearly 2 years in clinical research. Over time, I’ve become increasingly drawn to the intersection of medicine and data — how clinical insights can be better understood, predicted, and improved through data analytics.
-  I’m now transitioning toward a career in clinical data analysis, combining hands-on healthcare experience with a growing skill set in data interpretation, research, and evidence-based decision-making.
-  <br><br>
-  <a href="https://www.linkedin.com/in/rachel-c-585567a5/">View My LinkedIn Profile</a> 
-  <br>
-  <a href="https://docs.google.com/document/d/1h9MFQp61TU0EKQA5iLpko5cfTsOEU2wCGonDomqfSyc/edit?usp=sharing">View My Resume</a>
+  I'm a surgical Physician Assistant who builds healthcare data systems.
+  My clinical background is in surgery — which means I understand how healthcare actually operates at the point of care. The sequencing, the stakes, the documentation, the data that gets generated at every step of a patient's surgical journey. I know what CPT codes represent in practice, how perioperative data is structured, and where real-world health data gets messy.
+  That domain knowledge, combined with a genuine drive to build systems that scale, is what I bring to healthcare data work.
+  What I build:
+  
+  End-to-end data pipelines for healthcare and epidemiological datasets
+  Scalable architectures that separate data ingestion, transformation, and analysis — so asking new clinical questions doesn't mean rewriting code
+  AI-augmented workflows using LLMs (Claude, GPT-4) as core development tools
+  
+  Recent work:
+  Built a reusable NHANES biomarker analysis pipeline on PostgreSQL — automated ingestion of 46 lab tables, a biomarker registry mapping 345 variables, and reusable analysis functions across multiple disease states. Three complete epidemiological analyses completed and documented.
+  Stack: Python · SQL · PostgreSQL · SQLAlchemy · pandas · statsmodels
+  I'm focused on roles at the intersection of clinical intelligence, real-world evidence, and healthcare AI — where deep domain knowledge and the ability to build scalable systems both matter.
+  📎 Portfolio: https://eudorach.github.io
+  📎 GitHub: https://github.com/eudorach
 
 
   
