@@ -1,41 +1,48 @@
-# Portfolio
 ---
-## NHANES Obesity Predictor (in progress)
-
-Obesity has become an epidemic in the United States of America. Environmental factors contribute to the development of obesity but some people are more prone to it than others. The question was asked about whether there are physiological markers and labs that could be taken to potentially predict the development of obesity. 
-
-The project draws public data from NHANES Website and the data from the years 2017-2020 is used. The data was first extracted and cleaned. Relational database was created locally to host the dataset. The next step will be to find correlations and make a prediction model. 
-
-<a href="https://github.com/eudorach/portfolio_ds_projects/tree/main/NHANES_analysis"> See code </a>
-
+layout: default
 ---
 
-## COVID-19
+# Rachel Chung, PA-C
+**Healthcare Data Builder · Clinical AI · Real-World Evidence**
 
-### COVID-19 Statistics
-<base target = "_blank">
+Physician Assistant with surgical clinical experience, building scalable data pipelines and AI-augmented workflows for healthcare. I bring something most data engineers don't have: I understand how healthcare actually operates at the point of care — the sequencing, the stakes, the documentation, and the data it generates.
 
-COVID-19 pandemic's global effects were visualized. Based on the dataset given, South America was affected the most by the COVID-19 pandemic. 
-
-<img src="images/continents.png?raw=true"/>
-<br>
-<a href="https://github.com/eudorach/ds_codesummary/blob/main/COVID-19stats.md" target="_blank">See Code</a>
-
-### Various Factos Affecting the Number of Total COVID-19 Cases
-COVID-19 pandemic spread quickly and so were the responses from various countries. Given the dataset from Tech Academy, various analyses were performed to see which factors were correlated to the increase in total cases. One of the factors that was analyzed was whether smokers were more likely to contract COVID-19 infection compared to non smokers. There was a weak positive correlation in female smoker population and the number of COVID-19 cases in that population.
-<img src="images/female smokers and total cases.png?raw=true"/>
-<br>
-<a href="https://github.com/eudorach/ds_codesummary/blob/main/COVID-19total_cases_correlation.md" target="_blank">See Code</a>
+I build with Python, SQL, and PostgreSQL, and use LLMs (Claude, GPT-4) as core development tools — not shortcuts, but force multipliers for producing better, faster-iterated work.
 
 ---
 
-## Google Playstore
+## Featured Project
 
-### Analysis of Popular Genre and Category
-There are many applications in Google Play Store. An analysis was performed to see which type of application would be the most successful for creation. The conclusion was that the rating 'Everyone 10+' was the most utilized, thus is most likely to succeed.
+### NHANES Biomarker Analysis Pipeline
+**End-to-end healthcare data pipeline · PostgreSQL · Python · Real-World Evidence**
 
-<img src="images/content_rating.png?raw=true"/>
-<br>
-<a href="https://github.com/eudorach/ds_codesummary/blob/main/GPS_installs.md" target="_blank">See Code</a>
+A reusable epidemiological analysis system built on the NHANES 2017–2020 Pre-Pandemic dataset — one of the most comprehensive population-level health surveys available.
+
+**What I built:**
+- Automated ingestion of 46 NHANES laboratory tables into a structured PostgreSQL database
+- Long-table architecture with a `biomarker_registry` mapping 345 biomarkers from raw NHANES codes to human-readable names — so new analyses require configuration, not rewriting code
+- Reusable analysis functions (correlation, linear/logistic regression, quartile analysis) that accept any biomarker and disease combination via a config file
+- Clinically grounded cohort definitions based on ACC/AHA, WHO, and ADA guidelines
+- Three complete analyses: urine biomarkers vs. BMI (n=2,898), carbohydrate metabolism vs. BMI (n=3,478), SHBG vs. BMI in males 22–49 (n=1,387)
+
+**What makes it different:** Most NHANES analyses are one-off scripts. This is a system — built to scale across any biomarker, any disease, any cohort filter without touching the underlying architecture.
+
+**Stack:** Python · PostgreSQL · SQLAlchemy · pandas · statsmodels · seaborn · pyreadstat · LLM-augmented development
+
+[View Pipeline & Documentation](https://github.com/eudorach/portfolio_ds_projects/blob/main/NHANES_analysis/pipeline/README.md)
 
 ---
+
+## Skills
+
+| | |
+|---|---|
+| **Clinical Domain** | Surgical medicine, perioperative workflows, procedural and CPT coding, point-of-care clinical decision-making |
+| **Data Engineering** | PostgreSQL, long-table architecture, automated ingestion pipelines, modular reusable code |
+| **Analysis** | Pearson correlation, linear & logistic regression, odds ratios, covariate adjustment |
+| **Python** | pandas, SQLAlchemy, statsmodels, seaborn, pyreadstat |
+| **AI-Augmented Workflow** | Daily use of Claude and GPT-4 for code generation, iteration, and QA |
+
+---
+
+*Building at the intersection of surgical medicine and data engineering.*
