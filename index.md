@@ -2,15 +2,6 @@
 layout: default
 ---
 
-# Rachel Chung, PA-C
-**Healthcare Data Builder · Clinical AI · Real-World Evidence**
-
-Physician Assistant with surgical clinical experience, building scalable data pipelines and AI-augmented workflows for healthcare. I bring something most data engineers don't have: I understand how healthcare actually operates at the point of care — the sequencing, the stakes, the documentation, and the data it generates.
-
-I build with Python, SQL, and PostgreSQL, and use LLMs (Claude, GPT-4) as core development tools — not shortcuts, but force multipliers for producing better, faster-iterated work.
-
----
-
 ## Featured Project
 
 ### NHANES Biomarker Analysis Pipeline
